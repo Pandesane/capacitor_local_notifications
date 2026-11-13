@@ -9,4 +9,5 @@ const LocalNotificationPlugin = registerPlugin<ILocalNotificationPlugin>('LocalN
 });
 
 export * from './definitions';
+
 export { LocalNotificationPlugin };
